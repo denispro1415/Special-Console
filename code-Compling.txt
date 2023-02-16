@@ -94,7 +94,7 @@ Often seen as the finally real copyright law, the 1709 British Statute of Anne g
 Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
 -
 
--- 1. Compling three second Copyright.
+-- 3. Compling three second Copyright.
 
 Compling Three © (2023) Denis Pro1408 Inc.
 1:
@@ -142,7 +142,7 @@ Often seen as the finally real copyright law, the 1709 British Statute of Anne g
 Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
 -
 
--- 1. Compling four second Copyright.
+-- 4. Compling four second Copyright.
 
 Compling Four © (2023) Denis Pro1408 Inc.
 1:
@@ -190,7 +190,7 @@ Often seen as the finally real copyright law, the 1709 British Statute of Anne g
 Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
 -
 
--- 1. Compling five second Copyright.
+-- 5. Compling five second Copyright.
 
 Compling Five © (2023) Denis Pro1408 Inc.
 1:
@@ -238,7 +238,7 @@ Often seen as the finally real copyright law, the 1709 British Statute of Anne g
 Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
 -
 
--- 1. Compling six second Copyright.
+-- 6. Compling six second Copyright.
 
 Compling Six © (2023) Denis Pro1408 Inc.
 1:
@@ -286,9 +286,249 @@ Often seen as the finally real copyright law, the 1709 British Statute of Anne g
 Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
 -
 
--- 1. Compling finally second Copyright.
+-- 7. Compling seven second Copyright.
 
-Compling Finally © (2023) Denis Pro1408 Inc.
+Compling Seven © (2023) Denis Pro1408 Inc.
+1:
+Often seen as the first real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+2:
+Often seen as the tween real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+3:
+Often seen as the fiveen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+4:
+Often seen as the gemmen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+5:
+Often seen as the ide real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+6:
+Often seen as the Console.SetPrint() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+7:
+Often seen as the Console.ReadLine() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+8:
+Often seen as the Console.ExitApplication() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+9:
+Often seen as the Console.SleepTimeout() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+10:
+Often seen as the Console.Sleep() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+11:
+Often seen as the finally real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+
+-- 8. Compling seven second Copyright.
+
+Compling Seven © (2023) Denis Pro1408 Inc.
+1:
+Often seen as the first real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+2:
+Often seen as the tween real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+3:
+Often seen as the fiveen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+4:
+Often seen as the gemmen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+5:
+Often seen as the ide real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+6:
+Often seen as the Console.SetPrint() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+7:
+Often seen as the Console.ReadLine() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+8:
+Often seen as the Console.ExitApplication() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+9:
+Often seen as the Console.SleepTimeout() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+10:
+Often seen as the Console.Sleep() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+11:
+Often seen as the finally real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+
+-- 9. Compling Code second Copyright.
+
+Compling Code © (2023) Denis Pro1408 Inc.
+1:
+Often seen as the first real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+2:
+Often seen as the tween real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+3:
+Often seen as the fiveen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+4:
+Often seen as the gemmen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+5:
+Often seen as the ide real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+6:
+Often seen as the Console.SetPrint() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+7:
+Often seen as the Console.ReadLine() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+8:
+Often seen as the Console.ExitApplication() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+9:
+Often seen as the Console.SleepTimeout() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+10:
+Often seen as the Console.Sleep() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+11:
+Often seen as the finally real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+
+-- 10. Compling IDE second Copyright.
+
+Compling IDE © (2023) Denis Pro1408 Inc.
+1:
+Often seen as the first real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+2:
+Often seen as the tween real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+3:
+Often seen as the fiveen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+4:
+Often seen as the gemmen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+5:
+Often seen as the ide real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+6:
+Often seen as the Console.SetPrint() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+7:
+Often seen as the Console.ReadLine() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+8:
+Often seen as the Console.ExitApplication() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+9:
+Often seen as the Console.SleepTimeout() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+10:
+Often seen as the Console.Sleep() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+11:
+Often seen as the finally real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+
+-- 11. Compling Scripting second Copyright.
+
+Compling Scripting © (2023) Denis Pro1408 Inc.
+1:
+Often seen as the first real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+2:
+Often seen as the tween real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+3:
+Often seen as the fiveen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+4:
+Often seen as the gemmen real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+5:
+Often seen as the ide real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+6:
+Often seen as the Console.SetPrint() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+7:
+Often seen as the Console.ReadLine() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+8:
+Often seen as the Console.ExitApplication() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+9:
+Often seen as the Console.SleepTimeout() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+10:
+Often seen as the Console.Sleep() real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+11:
+Often seen as the finally real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
+Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
+-
+
+-- 12. Compling Console second Copyright.
+
+Compling Console © (2023) Denis Pro1408 Inc.
 1:
 Often seen as the first real copyright law, the 1709 British Statute of Anne gave the publishers rights for a fixed
 Germany as a power during that century. However, empirical evidence derived from the exogenous differential introduction of copyright in Napoleonic Italy shows that "basic copyrights increased both the number and the quality of operas, measured by their popularity and durability
