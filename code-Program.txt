@@ -1,0 +1,27 @@
+-- 1. Program Code Scripting IDE.
+
+Program Code IDE Added: CLASS - FUNCTION - PUBLIC
+Program Code IDE Added: Console - ReadLine - SetPrint - ExitApplication - Sleep - SleepTimeout
+
+-- 2. Program Compling Scripting IDE.
+
+Class
+Function
+Public
+Console
+ReadLine
+SetPrint
+ExitApplication
+Sleep
+SleepTimeout
+
+-- 3. Program Run Scripting IDE.
+
+Copyright © (2023) Denis Pro1408 Inc.
+1. New IDE to Java JDK 1.1.08.
+2. Contains Code Scripting IDE
+3. Extracting zip to run IDE.
+4. Downloading zip to open zip.
+
+-- 4. Compling Run Opening Program.
+Thanks for Special Console © (2023) Denis Pro1408 Inc.
